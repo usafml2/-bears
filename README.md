@@ -1,2 +1,2 @@
-# usafml2.bears.github.io
+# usafml2bears.github.io
 Another attempt after first one.
